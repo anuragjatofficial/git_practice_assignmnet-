@@ -7,5 +7,5 @@ if (bag==str) {
     console.log(str,"is palindrome");
 }
 else{
-    console.log(str,"is not palindrome");
+    console.log(str,"is palindrome");
 }
